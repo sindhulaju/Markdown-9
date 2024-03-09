@@ -1,5 +1,19 @@
-# Scheduling a Meeting Invite on MS Teams
-## Introduction
+<!-- vscode-markdown-toc -->
+* 1. [Introduction](#Introduction)
+	* 1.1. [Introduction](#Introduction-1)
+		* 1.1.1. [Introduction](#Introduction-1)
+	* 1.2. [**Prerequisites**](#Prerequisites)
+		* 1.2.1. [___Prerequisites___](#Prerequisites___)
+* 2. [Tables](#Tables)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc --># Scheduling a Meeting Invite on MS Teams
+
+
+##  1. <a name='Introduction'></a>Introduction
 Microsoft Teams has a feature to schedule an online **meeting** with individuals or groups. Whenthe user schedules a meeting in Outlook, it will show up in the Teams Calendar and vice versa.
 
 <table class="table table-striped">
@@ -30,7 +44,7 @@ Microsoft Teams has a feature to schedule an online **meeting** with individuals
 has context menu
 
 
-### Introduction
+###  1.1. <a name='Introduction-1'></a>Introduction
 Microsoft `Teams` has a feature to schedule an online *meeting* with individuals or groups. When the user schedules a meeting in Outlook, it will Introduction
 Microsoft Teams has a feature to schedule an online meeting with individuals or groups. When the user schedules a meeting in Outlook, it will show up in the Teams Calendar and vice versa.
 __show up in the Teams Calendar and vice versa.
@@ -44,17 +58,17 @@ __show up in the Teams Calendar and vice versa.
         }
 }
 ```
-#### Introduction
+####  1.1.1. <a name='Introduction-1'></a>Introduction
 
 > Microsoft Teams has a feature to schedule an online meeting with individuals or groups. When the user schedules a meeting in Outlook, it will show up in the Teams Calendar and vice versa.
 
-### **Prerequisites**
+###  1.2. <a name='Prerequisites'></a>**Prerequisites**
 * Internet connection.
     * MS Teams account.
         * MS Teams App.
     * Device – Android, iOS or Windows.
 
-#### ___Prerequisites___
+####  1.2.1. <a name='Prerequisites___'></a>___Prerequisites___
 1. Internet connection.__
     1. MS Teams account.
         1. MS Teams App.
@@ -79,7 +93,7 @@ __show up in the Teams Calendar and vice versa.
     1. MS Teams account.
         1. MS Teams App.
         1. Device – Android, iOS or Windows.
-## Tables
+##  2. <a name='Tables'></a>Tables
 ***Participants*** | Name | City
 ---| --- | ---
 1 | sss | blr
